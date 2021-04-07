@@ -1,0 +1,1 @@
+General discussion of resources available on a computer and identifying bottlenecks. CPU, RAM, disk, network, etc. Isolating overused resources and utilizing underused resources in a single system.

@@ -1,0 +1,1 @@
+This module goes over the concept of problem domains and failure domains, time management and prioritizing tasks.

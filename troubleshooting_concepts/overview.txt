@@ -1,0 +1,14 @@
+1. Identify the problem
+2. Create a reproduction case
+3. Find the root cause
+
+Intermittent issues:
+
+	- Heisenbug issue: an issue that goes away when observers. The observer effect.
+	- Find a way to reproduce the issue that doesn't affect users then create tests that trigger 
+	  the bug reliably.
+
+Binary searching: divide the possible causes of a problem in half and investigate just one half of the
+of the possible causes. Break down the problem into smaller and smaller pieces in order to elimnate 
+possible sources of failure more quickly.
+
